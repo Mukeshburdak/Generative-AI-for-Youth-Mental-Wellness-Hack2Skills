@@ -44,10 +44,10 @@ Mental well-being among youth is one of the most pressing challenges of our time
 | Layer       | Technology |  
 |-------------|------------|  
 | **Frontend** | React / Next.js |  
-| **Backend**  | Node.js / Express |  
-| **Database** | MongoDB / Firebase |  
+| **Backend**  | Node.js |  
+| **Database** | MongoDB |  
 | **AI/ML**    | OpenAI GPT / Hugging Face |  
-| **Deployment** | Vercel / AWS / Docker |  
+| **Deployment** | Google Cloud |  
 
 ---
 
@@ -55,8 +55,8 @@ Mental well-being among youth is one of the most pressing challenges of our time
 
 ### 📌 Prerequisites  
 - Node.js (v18+)  
-- npm or yarn  
-- OpenAI API Key (or equivalent AI provider)  
+- npm   
+- OpenAI API Key 
 
 ### ⚡ Installation  
 ```bash
@@ -85,11 +85,11 @@ genai-exchange-hackathon/
 
 | Role | Name | Contribution |  
 |------|------|--------------|  
-| 👨‍💻 AI/Backend Developer | [Member 1] | AI model integration & backend server logic |  
-| 👩‍💻 Frontend Developer | [Member 2] | UI development with React/Next.js |  
-| 🎨 UI/UX Designer | [Member 3] | Prototypes, user experience, and branding |  
-| 📑 Research & Content | [Member 4] | Mental health resources, content creation, documentation |  
-| 🛠️ DevOps & Deployment | [Member 5] | Deployment, database management, CI/CD pipeline |  
+| 👨‍💻 AI/Backend Developer | [Shivam Yadav] | AI model integration & backend server logic |  
+| 👩‍💻 Frontend Developer | [Mukesh Burdak] | UI development with React/Next.js |  
+| 🎨 UI/UX Designer | [Anil Prajapat] | Prototypes, user experience, and branding |  
+| 📑 Research & Content | [Sharad Yadav] | Mental health resources, content creation, documentation |  
+| 🛠️ DevOps & Deployment | [Aryan Singh] | Deployment, database management, CI/CD pipeline |  
 
 
 🌍 Social Impact
@@ -117,7 +117,7 @@ Commit your changes
 Push and open a PR
 
 📜 License (MIT)
-Copyright (c) 2025 [Your Name / Team Name]
+Copyright (c) 2025 [Aryan Singh / ChronoCoders]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and its associated documentation files (the “Software”), to use the Software without restriction. This includes, but is not limited to:
 
