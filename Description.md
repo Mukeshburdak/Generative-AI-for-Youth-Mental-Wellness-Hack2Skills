@@ -1,15 +1,20 @@
-🧠 Generative AI for Youth Mental Wellness – Research Paper
+🧠 Generative AI for Youth Mental Wellness 
+
+---
+
 📌 Abstract
 
 Mental health remains a pressing challenge for young adults in India, where stigma, high costs, and limited accessibility create barriers to seeking help. Amidst academic and social pressures, youth often lack confidential and empathetic outlets for mental wellness support.
 
-This paper presents a Generative AI–powered solution designed to provide confidential, culturally sensitive, and accessible mental health support for Indian youth. Leveraging Google Cloud’s Generative AI, the system functions as an empathetic chatbot that:
+This project presents a Generative AI–powered solution designed to provide confidential, culturally sensitive, and accessible mental health support for Indian youth. Leveraging Google Cloud’s Generative AI, the system functions as an empathetic chatbot that:
 ✨ Engages in supportive conversations
 ✨ Offers personalized coping strategies
 ✨ Provides curated self-help resources
 ✨ Escalates high-risk cases to helplines & therapy services
 
 By incorporating mood tracking, peer story sharing, and stigma-reduction features, the solution aims to normalize mental health discussions while protecting user privacy.
+
+---
 
 🏫 Introduction
 
@@ -31,7 +36,10 @@ By incorporating mood tracking, peer story sharing, and stigma-reduction feature
 
 🚀 Generative AI opens new doors: confidential, accessible, empathetic, and scalable support systems. This project aims to build a culturally sensitive wellness platform for youth.
 
+---
+
 🛠 Methodology / System Design
+---
 🔹 1. System Overview
 
 An AI-powered platform combining:
@@ -43,6 +51,8 @@ An AI-powered platform combining:
 🧑‍🤝‍🧑 Community & peer support
 
 🛟 Escalation to professional help
+
+---
 
 🔹 2. System Architecture
 
@@ -66,6 +76,7 @@ Safe community forums
 
 Escalation module
 
+
 🧠 AI/ML Layer
 
 Sentiment & emotion analysis
@@ -84,6 +95,8 @@ Firestore / BigQuery (secure & anonymized data)
 
 Encrypted communication
 
+---
+
 🔹 3. Workflow of the System
 flowchart TD
 A[👩 User Access] --> B[📝 Onboarding & Mood Check]
@@ -93,6 +106,8 @@ D -->|Distress Detected| E[🚨 Escalation: Helplines / Therapists]
 D -->|Normal Use| F[📊 Mood Tracking]
 E --> G[🔄 Continuous Learning]
 F --> G
+
+---
 
 🔹 4. Ethical Considerations
 
@@ -104,6 +119,8 @@ F --> G
 
 🌍 Cultural sensitivity → Multi-language & localized content
 
+---
+
 🎯 Expected Outcomes
 
 ✅ More accessible mental health support
@@ -111,6 +128,8 @@ F --> G
 ✅ Higher youth engagement in self-care
 ✅ Personalized & local resources
 ✅ Scalable to multiple Indian languages
+
+---
 
 ⚠️ Challenges & Limitations
 
@@ -121,6 +140,8 @@ F --> G
 🏞 Digital divide in rural areas
 
 🧑‍⚕️ Dependency on professional backup for extreme cases
+
+---
 
 ✅ Conclusion & Future Work
 
